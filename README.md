@@ -10,7 +10,7 @@ This task was part of my Data Science internship at Prodigy InfoTech, where I fo
 
 Objective :
 
-The main objective of this task was to:
+The main objective of this task was to
 Load and inspect the dataset to ensure it was ready for analysis.
 Identify and handle missing values in categorical columns.
 Visualize the distribution of categorical variables ('Sex', 'Embarked', 'Pclass') using bar plots to understand their frequency distribution.
